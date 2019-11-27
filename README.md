@@ -1,1 +1,1 @@
-# Loan-Prediction-
+# Liver patient prediction 
